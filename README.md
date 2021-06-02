@@ -6,3 +6,5 @@ repositorio para aula de **git** e **github**
 Este é um parágrafo. __Itálico__
 
 Este é outro parágrafo.
+
+Isto é outro parágrafo
