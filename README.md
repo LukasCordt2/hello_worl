@@ -1,10 +1,24 @@
 # hello_worl
 repositorio para aula de **git** e **github**
 
-## Teste em markdown
+## Objetivos
 
-Este é um parágrafo. __Itálico__
+* Aprender a clonar o repositório;
+* Aprender a colocar os arquivos para trackear;
+* Aprender a fazer o commit;
+* Aprender a enviar as modificações para o github
+* Aprender a baixar as modificações.
 
-Este é outro parágrafo.
+## Criar versão de arquivos modificados/incluidos/deletados            
 
-Isto é outro parágrafo
+Falar para o git monitorar os arquivos para serem versionados.
+
+```git
+git add.
+```
+
+Comando para criar versão do arquivo , **a mensagem entre aspas deve representar o que foi feito!**
+
+```git 
+git commit - "uma mensagem sobre o que foi realizado"
+```
